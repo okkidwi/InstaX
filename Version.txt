@@ -1,0 +1,1 @@
+{'ver1':'1', 'ver2':'0.0', 'url':'https://github.com/okkidwi/InstaX'}
