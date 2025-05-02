@@ -1,1 +1,1 @@
-{'ver1':'1', 'ver2':'0.0', 'url':'https://okkidwi.indrives.workers.dev'}
+{'ver1':'2', 'ver2':'0.0', 'url':'https://okkidwi.indrives.workers.dev'}
